@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">SikisQu</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="register">Registrasi Akun</string>
+    <string name="update">Update Profile</string>
+    <string name="login_email_hint">Email/Number Phone</string>
+    <string name="login_password_hint">Password</string>
+    <string name="signup_login_hint">Already have an account? Sign In</string>
+    <string name="login_signup_hint">Don\'t have an account? Sign Up</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!--onboarding designs-->
+    <string name="onboardingWelcomeContent">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </string>
+    <string name="onboardingSpinWinContent">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </string>
+    <string name="onboardingRecommenderContent">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </string>
+    <string name="onboarding_welcome_3">Welcome 3</string>
+    <string name="onboarding_welcome_2">Welcome 2</string>
+    <string name="onboarding_welcome_1">Welcome</string>
+    <string name="note">Note : Datanglah 10 menit sebelum jadwal periksa, Setelah selesai periksa tunjukan bukti ini kepada kasir untuk menlunasi pembayaran</string>
+    <string name="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="daftar">Daftar</string>
+    <string name="number_phone">Number Phone</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+
+    <string-array name="jenis">
+        <item name="poligigi">Konseling</item>
+        <item name="poliumum">Terapi Kejiwaan</item>
+        <item name="kandugan">Motivasi</item>
+    </string-array>
+    <string-array name="dokter">
+        <item name="drumum1">Amaliyah Gian Fadillah, S.Psi</item>
+        <item name="drumum2">Umar Ulkhak, S.Psi</item>
+        <item name="drgigi1">Eli Susilowati, S.Psi</item>
+    </string-array>
+
+</resources>
